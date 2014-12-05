@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts_Proyecto\TriggerPuertaOculta.cs">
+    <Files>
+      <File FileName="Assets\Scripts_Proyecto\Inventory.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts_Proyecto\Posicion2.cs" Line="13" Column="29" />
+      <File FileName="Assets\Scripts_Proyecto\Position.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts_Proyecto\PickUp.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts_Proyecto\Pulsar.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts_Proyecto\TriggerPuertaOculta.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
